@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1298981151066816523/1300369309716971570/1_iLa3E1yYHoYhOloCqQv36Q.png)](https://luther121.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/0*cl7fc6pt1MHjIF4K.png)](https://luther121.io)
 <h1 align="center">Hi 👋, I'm Luther Malau</h1>
 <h3 align="center">I am a fullstack from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
