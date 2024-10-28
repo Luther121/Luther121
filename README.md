@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/1298981151066816523/1300369309716971570/1_iLa3E1yYHoYhOloCqQv36Q.png)](https://luther121.io)
 <h1 align="center">Hi 👋, I'm Luther Malau</h1>
 <h3 align="center">I am a fullstack from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1298981151066816523/1300368230690590792/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luther121&label=Profile%20views&color=0e75b6&style=flat" alt="luther121" /> </p>
